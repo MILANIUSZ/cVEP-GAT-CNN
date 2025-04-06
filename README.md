@@ -1,4 +1,4 @@
-#cVEP-GAT-CNN
+# cVEP-GAT-CNN
 Graph-Attentive CNN for cVEP-BCI with Insights into Electrode Significance
 (Accompanying repository for our IWANN 2025 submission)
 
