@@ -11,7 +11,7 @@ by Milán András Fodor and Ivan Volosyak, submitted to IWANN 2025.
 We propose a novel hybrid neural network that combines Convolutional Neural Networks (CNNs) and Graph Attention Networks (GATs) for code-modulated Visual Evoked Potential (cVEP) classification.
 Our model achieves high validation accuracy (~94%) on a sample-wise classification task while providing insights into the most important EEG electrodes for cVEP decoding.
 
-Key contributions:
+Key content:
 
 A hybrid GAT-CNN model tailored for cVEP-based BCI systems
 
