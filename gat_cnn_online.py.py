@@ -58,7 +58,7 @@ NUM_CHANNELS = len(CHANNEL_NAMES)
 NUM_CLASSES = 2
 
 # Ensure save directory exists
-eos.makedirs(MODEL_SAVE_DIR, exist_ok=True)
+os.makedirs(MODEL_SAVE_DIR, exist_ok=True)
 
 # ------------------------ Preprocessing ------------------------
 def build_fully_connected_adjacency(n=NUM_CHANNELS):
